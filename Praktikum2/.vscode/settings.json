@@ -1,0 +1,10 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -o $fileNameWithoutExt *.cpp && $dir$fileNameWithoutExt"
+    },
+    "files.associations": {
+        "*.pl": "prolog",
+        "xstring": "cpp",
+        "iostream": "cpp"
+    }
+}
